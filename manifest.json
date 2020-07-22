@@ -1,0 +1,18 @@
+{
+    "package": {
+        "name": "Beispielerweiterung",
+        "namespace": "example",
+        "version": "0.0.1",
+        "description": "Dieses Addon ist eine Beispielerweiterung, mit welcher die grundlegenden Funktionen von Erweiterungen demonstriert werden.",
+        "author": {
+            "name": "Konrad Weiß",
+            "organisation": "Logilutions",
+            "url": "http://logilutions.de",
+            "email": "info@logilutions.de"
+        },
+        "keywords": [
+            "example",
+            "beispiel"
+        ]
+    }
+}
