@@ -15,7 +15,7 @@
             "beispiel"
         ],
         "images": {
-            "logo": "images/icon.png",
+            "icon": "images/icon.png",
             "banner": "images/banner.png"
         }
     }
