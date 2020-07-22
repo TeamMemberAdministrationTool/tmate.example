@@ -13,6 +13,10 @@
         "keywords": [
             "example",
             "beispiel"
-        ]
+        ],
+        "images": {
+            "logo": "images/icon.png",
+            "banner": "images/banner.png"
+        }
     }
 }
